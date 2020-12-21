@@ -111,7 +111,7 @@ Tipos nomeados podem ser criados com a sintaxe `type NomeDoTipo Tipo`. Por exemp
 type PersonName string
 ```
 
-Embora qualquer um dos tipos descritos acima possa aparece na definição de um tipo nomeado, esta construção é muito mais comum com tipos compostos e enums. Por exemplo:
+Embora qualquer um dos tipos descritos acima possa aparecer na definição de um tipo nomeado, esta construção é muito mais comum com tipos compostos e enums. Por exemplo:
 
 ```
 type Person {
